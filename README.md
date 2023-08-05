@@ -19,12 +19,19 @@ Seaborn: Used for creating more sophisticated visualizations.
 
 Dataset
 The script reads the employee dataset from a CSV file named employee_dataset.csv . The dataset should have the following columns:
+
 Name: Employee name
+
 Age: Employee age
+
 Team: Team to which the employee belongs
+
 Position: Employee's position in the organization
+
 Salary: Employee's salary
+
 The script also adds a new column named 'height' to the DataFrame, which contains random integer values between 150 and 180.
+
 
 Analysis and Visualizations
 Team-wise Employee Count:
