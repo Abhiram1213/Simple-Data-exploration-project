@@ -10,12 +10,15 @@ Libraries Used
 The following libraries are utilized in this script:
 
 Pandas: Used for data manipulation and analysis.
+
 NumPy: Used for numerical operations.
+
 Matplotlib: Used for creating basic visualizations.
+
 Seaborn: Used for creating more sophisticated visualizations.
+
 Dataset
 The script reads the employee dataset from a CSV file named employee_dataset.csv . The dataset should have the following columns:
-
 Name: Employee name
 Age: Employee age
 Team: Team to which the employee belongs
