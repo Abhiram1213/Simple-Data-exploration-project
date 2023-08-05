@@ -13,7 +13,7 @@ NumPy: Used for numerical operations.
 Matplotlib: Used for creating basic visualizations.
 Seaborn: Used for creating more sophisticated visualizations.
 Dataset
-The script reads the employee dataset from a CSV file named employee_dataset.csv.csv. The dataset should have the following columns:
+The script reads the employee dataset from a CSV file named employee_dataset.csv .The dataset should have the following columns:
 
 Name: Employee name
 Age: Employee age
