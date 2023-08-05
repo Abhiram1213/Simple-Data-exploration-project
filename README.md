@@ -6,6 +6,7 @@ Purpose
 The purpose of this script is to provide valuable insights into the employee dataset, such as team-wise employee counts, employee counts based on positions, employee distribution across different age groups, and identifying the team and position with the highest salary spending. Additionally, the script generates a scatter plot to visualize the correlation between age and salary.
 
 Libraries Used
+
 The following libraries are utilized in this script:
 
 Pandas: Used for data manipulation and analysis.
